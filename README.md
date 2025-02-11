@@ -21,7 +21,7 @@ Este proyecto es un carrito de compras desarrollado para la materia DEW (Desarro
 ## Instrucciones de Instalación y Ejecución
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/carrito-dew.git
+   git clone https://github.com/CarolinaBX5/RepositorioDEW
    ```
 
 2. **Abrir el proyecto:**
